@@ -1,0 +1,9 @@
+https://uflorida-my.sharepoint.com/:x:/r/personal/mahoneyjake_ufl_edu/Documents/TESS_predictions.xlsx?d=w05ff751d01144d92b32ffcbef87602c2&csf=1&web=1&e=chXdtb 
+
+my task: Run the TESS data twice with two very different networks, make a table with the ages for each star, compute the average difference, and upload the table to the github
+
+attached is the link to the table containing the ages estiates from two very different machine learning models. one was made using (neurons_per_layer=30 layers=15 iterations=150) and the other
+was made using (neurons_per_layer=15 layers=5 iterations=100). The more simple network proved more effective at finding acurate ages. 
+
+the first coloum gives the stars tic number. the second gives age estimate for the simple model. the third for the estimate from the complex model. the fourth column gives the difference between 
+the two estimates. The average differeance came out to 1.6323078850779484 Gyr
